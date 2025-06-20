@@ -15,7 +15,7 @@ openssl rand -base64 32
 
 # FastAPI проект - Сервис проведения тендеров
 
-[Ссылка на адание](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Backend/Backend-trainee-assignment-autumn-2024/Backend-trainee-assignment-autumn-2024.md)
+[Ссылка на задание](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Backend/Backend-trainee-assignment-autumn-2024/Backend-trainee-assignment-autumn-2024.md)
 
 1. `make start` - Формирование Docker - образа + запуск.
 2. `make stop` - Остановка.
